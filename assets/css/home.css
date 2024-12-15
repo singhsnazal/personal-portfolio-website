@@ -88,12 +88,12 @@ figure {
   width: 100%;
   height: 100%;
 }
-
+/* link_your_image_on_these_tag */
 figure .image-1 {
   width: 100%;
   height: 100%;
   position: absolute;
-  background: url(/assets/images/sliceimg1.jpg);
+  background: url(/assets/images/favicon-aman.png);
   background-repeat: no-repeat;
   background-size: cover;
   top: 0;
